@@ -1,4 +1,4 @@
-Senior C/C++ engineer (14+ yrs) — firmware, telecom, high performance application.
+Senior C/C++ engineer (14+ yrs) — firmware, telecom, high performance systems.
 
 - 🔭 Systems design, architecture, debugging
 - 🔄 Firmware (BIOS/BSP/Linux/Devices) → backend (Go, Python) → cloud (containers, CI/CD, IaC)
