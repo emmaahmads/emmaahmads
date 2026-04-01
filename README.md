@@ -1,7 +1,8 @@
-🔭 I design and build low-level systems in C/C++
-🧠 Known for debugging complex issues and system architecture
-🔄 Across the stack: firmware (BIOS, BSP, Linux), backend, cloud (containers, CI/CD, IaC)
-🏢 14+ years in MNC environments
+Senior C/C++ engineer (14+ yrs) — firmware, telecom, trading systems.
+
+- 🔭 Systems design, architecture, debugging
+- 🔄 Firmware (BIOS/BSP/Linux/Devices) → backend (Go, Python) → cloud (containers, CI/CD, IaC)
+- 🧩 Strong in solving hard production issues
 
 ![C++](https://img.shields.io/badge/C++-Systems-blue?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-Low--level-black?style=flat)
