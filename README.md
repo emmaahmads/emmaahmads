@@ -2,7 +2,7 @@ Senior Systems Engineer (14+ yrs) — C/C++, firmware, distributed systems.
 
 👉 [Portfolio](https://emmaahmads.github.io/)
 
-- 🔭 Systems design, architecture, debugging
+- ⚙️ Systems design, architecture, debugging
 - 🔄 Firmware (BIOS/BSP/Linux/Devices) → backend (Go, Python) → cloud (containers, CI/CD, IaC)
 - 🧩 Solving hard production issues
 
