@@ -1,4 +1,5 @@
-Senior C/C++ engineer (14+ yrs) — firmware, telecom, high performance systems.
+Senior Systems Engineer (14+ yrs) — C/C++, firmware, distributed systems.
+[👉 Portfolio](https://emmaahmads.github.io/)
 
 - 🔭 Systems design, architecture, debugging
 - 🔄 Firmware (BIOS/BSP/Linux/Devices) → backend (Go, Python) → cloud (containers, CI/CD, IaC)
