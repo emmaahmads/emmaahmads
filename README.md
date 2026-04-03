@@ -1,4 +1,4 @@
-Senior Systems Engineer (14+ yrs) — C/C++, firmware, distributed systems.
+Senior Systems Engineer - C/C++, firmware, distributed systems.
 
 👉 [Portfolio](https://emmaahmads.github.io/)
 
